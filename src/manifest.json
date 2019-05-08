@@ -1,0 +1,16 @@
+{
+  "icon": "icon.png",
+  "commands": [
+    {
+      "name": "my-command",
+      "identifier": "fit-to-parent.my-command-identifier",
+      "script": "./my-command.js"
+    }
+  ],
+  "menu": {
+    "title": "fit-to-parent",
+    "items": [
+      "fit-to-parent.my-command-identifier"
+    ]
+  }
+}
