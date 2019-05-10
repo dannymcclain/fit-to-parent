@@ -2,7 +2,7 @@
 
 ## Download
 
-- [Download](../../releases/latest/download/fit-to-parent.sketchplugin.zip) the plugin (Download for free by entering \$0, or toss me a dollar or two if you're feeling generous.)
+- [Download](https://gum.co/DzieG) the plugin (Download for free by entering \$0, or toss me a dollar or two if you're feeling generous.)
 - Un-zip
 - Double-click on fit-to-parent.sketchplugin
 
