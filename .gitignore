@@ -1,17 +1,17 @@
-# build artifacts
-fit-to-parent.sketchplugin
+# build artifacts -
+# fit-to-parent.sketchplugin
 
-# npm
-node_modules
-.npm
-npm-debug.log
+# npm - 
+# node_modules
+# .npm
+# npm-debug.log
 
-# mac
-.DS_Store
+# mac - 
+# .DS_Store
 
-# WebStorm
+# WebStorm - 
 .idea
 
-# sketch
-# sketch-assets
-.sketch
+# sketch - 
+# sketch-assets - 
+# .sketch
