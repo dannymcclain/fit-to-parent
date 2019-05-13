@@ -1,5 +1,5 @@
 # build artifacts
-# fit-to-parent.sketchplugin
+fit-to-parent.sketchplugin
 
 # npm
 node_modules
@@ -13,4 +13,4 @@ npm-debug.log
 .idea
 
 # sketch & sketch-assets
-# .sketch
+.sketch
